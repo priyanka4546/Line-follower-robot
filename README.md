@@ -1,4 +1,4 @@
-# 🚗 PID-Based Line Follower Robot using ESP32
+#  PID-Based Line Follower Robot using ESP32
 
 An autonomous line-following robot built using an **ESP32**, **TB6612FNG Motor Driver**, and an **8-channel SmartElex RLF-081R IR Sensor Array**. The robot implements a **PID (Proportional–Integral–Derivative) control algorithm** to continuously calculate its position relative to a black line and dynamically adjust the speed of each motor for smooth, accurate, and stable navigation.
 
